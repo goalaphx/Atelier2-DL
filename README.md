@@ -30,8 +30,8 @@ The CNN model consists of:
 
 ### Results
 
-- **Test Loss**: 0.30
-- **Test Accuracy**: 98.45%
+- **Test Loss**: 0.49
+- **Test Accuracy**: 98.36%
 
 ---
 
@@ -56,8 +56,8 @@ The ViT model is based on the transformer architecture and includes the followin
 
 ### Results
 
-- **Test Loss**: 0.52
-- **Test Accuracy**: 95.20%
+- **Test Loss**: 1.70
+- **Test Accuracy**: 76.29%
 
 ---
 
@@ -65,8 +65,8 @@ The ViT model is based on the transformer architecture and includes the followin
 
 | Model  | Test Loss | Test Accuracy |
 |--------|-----------|---------------|
-| **CNN** | 0.30      | 98.45%        |
-| **ViT** | 0.52      | 95.20%        |
+| **CNN** | 0.49     | 98.36%        |
+| **ViT** | 1.70      | 76.29%        |
 
 ---
 
